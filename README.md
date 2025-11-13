@@ -27,11 +27,11 @@ O objetivo principal é simples:
 
 > **Dar às modalidades e formação do futebol o destaque e visibilidade que merecem**, tentando aproximar os adeptos das equipas, utilizando estratégias que o clube não utiliza.
 
-Este projeto é **independente**, de um adepto para adeptos
-Nenhum outro website/app junta **todas** as modalidades num só sítio (segundo o meu conhecimento)
-Incentiva ida aos pavilhões
-Foco em usabilidade, clareza, e proximidade com os adeptos
-100% gratuito e open-source
+- Este projeto é **independente**, de um adepto para adeptos
+- Nenhum outro website/app junta **todas** as modalidades num só sítio (segundo o meu conhecimento)
+- Incentiva ida aos pavilhões
+- Foco em usabilidade, clareza, e proximidade com os adeptos
+- 100% gratuito e open-source
 
 A app permitirá:
 - Ver os próximos jogos por modalidade (já disponível por vias oficiais)
